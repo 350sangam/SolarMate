@@ -1,0 +1,35 @@
+{
+    "sellers":[
+        {
+            "id" : 1,
+            "Sellername":"wallmart",
+            "phone":"8888888888",
+            "pin":""
+
+        },
+        {
+            "id" : 2 ,
+            "Sellername":"best buy",
+            "phone":"00000000",
+            "pin":"110033"
+        },
+        {
+            "id" :3,
+            "Sellername":"target",
+            "phone":"00000000",
+            "pin":""
+        },
+        {
+            "id" :4,
+            "Sellername":"big bazaar",
+            "phone":"00000000",
+            "pin":""
+        },
+        {
+            "id" :5,
+            "Sellername":"solarmate",
+            "phone":"1111111111",
+            "pin":""
+        }
+    ]
+}
